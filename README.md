@@ -1,4 +1,4 @@
-# DeeoMotion 
+# DeepMotion 
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
