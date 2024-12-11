@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# DeeoMotion 
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,11 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Vinicius Azeveo de Avila
 
 ## Professor
 
-- Mestre Yoda
+- Will Machado
 
 # Documentação
 
